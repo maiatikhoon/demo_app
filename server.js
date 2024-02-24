@@ -5,7 +5,6 @@ console.log("Hello world new added ");
 
 
 
-console.log(" hello from prashant ") ;  
 
 
 console.log(" hello from atique ") ; 
